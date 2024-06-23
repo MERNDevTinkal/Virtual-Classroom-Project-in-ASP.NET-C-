@@ -1,6 +1,4 @@
-Certainly! Here's an updated README.md with the video link removed and the contact information added:
 
-```markdown
 # Virtual Classroom Project in ASP.NET C#
 
 Welcome to the Virtual Classroom project! This ASP.NET C# project provides a robust platform for creating and managing virtual classrooms. It offers features for both students and teachers, enabling an interactive and efficient learning environment.
